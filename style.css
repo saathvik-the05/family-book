@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+#image2 {
+    width: 500px;
+    border: solid 3px;
+    border-color: #F44336;
+    padding: 4px;
+}
+
+#firstp {
+    font-size: 80px;
+    word-spacing: 50px;
+    font-variant: small-caps;
+}
+
+#reason {
+    font-size: 50px;
+}
